@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello, I'm Peter Jiang. I like building stuff!
+
+I am a second CS student at the University of Waterloo.
+
+- I'm currently working on [Lodestone](https://github.com/CheatCod/Lodestone)
+- I'm learning about Web & Compilers
 
 <!--
 **CheatCod/CheatCod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
