@@ -1,9 +1,9 @@
 ### Hello, I'm Peter Jiang. I like building stuff!
 
-I am a second CS student at the University of Waterloo.
+I am a Founding Engineer at [datacurve.ai](datacurve.ai).
 
-- I'm currently working on [Lodestone](https://github.com/CheatCod/Lodestone)
-- I'm learning about Web & Compilers
+- I founded on [Lodestone](https://github.com/CheatCod/Lodestone), and [Planck](https://planckapp.com/)
+- I graduated from University of Waterloo
 
 <!--
 **CheatCod/CheatCod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
